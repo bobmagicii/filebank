@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // W O R K - I N - P R O G R E S S /////////////////////////////////////////////
 
-// use the php server for now. i archetected it there first so that all the time
+// use the php server for now. i built it there first so that all the time
 // i spend relearning how to not crash in c doesnt derail me from just trying
 // to archetect how i want things to work.
 
