@@ -4,6 +4,11 @@ Watches a directory of files and after a file gets read once, replaces that file
 
 It does not care about the filetype though you could randomise anything like a directory of images, sounds, game textures, whatever.
 
+## Requirements
+
+* Linux that supports inotify
+* PHP 8.4+ (for server-php)
+
 ## Structure
 
 Example install directory:
